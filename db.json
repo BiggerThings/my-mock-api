@@ -1,0 +1,14 @@
+{
+  "options": [
+    { "id": 1, "label": "Technology & Computing", "value": "tech" },
+    { "id": 2, "label": "Finance & Banking", "value": "finance" },
+    { "id": 3, "label": "Healthcare & Medicine", "value": "healthcare" },
+    { "id": 4, "label": "Education & Training", "value": "education" },
+    { "id": 5, "label": "Manufacturing & Logistics", "value": "manufacturing" },
+    { "id": 6, "label": "Media & Entertainment", "value": "entertainment" },
+    { "id": 7, "label": "Real Estate & Construction", "value": "real_estate" },
+    { "id": 8, "label": "Retail & E-commerce", "value": "retail" },
+    { "id": 9, "label": "Hospitality & Tourism", "value": "hospitality" },
+    { "id": 10, "label": "Agriculture & Forestry", "value": "agriculture" }
+  ]
+}
